@@ -12,9 +12,9 @@
 其后的日期表示截止日期，对应任务须在当日及之前提交
 
 - [ ] 一：[git和GitHub的认识与使用](https://github.com/seu-labview/Vision-Course-2020/blob/master/1-github/README.md) ![](https://progress-bar.dev/0/?scale=7&title=done&suffix=/7) **1月18日** 
-- [ ] 二：[Ubuntu的安装和初步认识](https://github.com/seu-labview/Vision-Course-2020/blob/master/2-ubuntu/README.md) ![](https://progress-bar.dev/1/?scale=7&title=done&suffix=/7) **1月25日**
-- [ ] 三：[Python的入门](https://github.com/seu-labview/Vision-Course-2020/blob/master/3-python/README.md) ![](https://progress-bar.dev/0/?scale=7&title=done&suffix=/7) **2月8日**
-- [ ] 四：[OpenCV的入门](https://github.com/seu-labview/Vision-Course-2020/blob/master/4-opencv/README.md) ![](https://progress-bar.dev/0/?scale=7&title=done&suffix=/7) **2月22日**
+- [ ] 二：[Ubuntu的安装和初步认识](https://github.com/seu-labview/Vision-Course-2020/blob/master/2-ubuntu/README.md)   ![](https://progress-bar.dev/1/?scale=7&title=done&suffix=/7) **1月25日**
+- [ ] 三：[Python的入门](https://github.com/seu-labview/Vision-Course-2020/blob/master/3-python/README.md) &emsp;&emsp;&emsp;&emsp;&emsp; ![](https://progress-bar.dev/0/?scale=7&title=done&suffix=/7) **2月8日**
+- [ ] 四：[OpenCV的入门](https://github.com/seu-labview/Vision-Course-2020/blob/master/4-opencv/README.md)&emsp;&emsp;&emsp;&emsp;&emsp;![](https://progress-bar.dev/0/?scale=7&title=done&suffix=/7) **2月22日**
 
 ## 详细说明
 
