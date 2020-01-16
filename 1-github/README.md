@@ -25,3 +25,4 @@
 * 直接推送到master分支是业界反感的操作，本作业为了降低难度暂时不引入分支（branch）的概念，当然如果你可以用pull request来完成的话，也是非常欢迎的；
 * 关于纯文本文档：我们通常使用`.md`文档，即`markdown`，这是一个便于入手的文本标记语言，这里有一份笔者翻译的
 [markdown教程](https://github.com/seuite/seuite-docs/blob/master/Reference/MarkdownReference.md)
+> ~~私货：如果嫌github访问速度过慢，可以购买 *加速服务*：[鲸落云](https://qq.com.w4-02.club/auth/register?code=adbP)~~
