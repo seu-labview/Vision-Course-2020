@@ -1,1 +1,0 @@
-$ git clone git@github.com:seu-labview/Vision-Course-2020 #克隆仓库到当前目录 $ git init #初始化 $ git add yuouR.md #添加新文件 $ git commit -m"Adding files" #提交版本 $ git push ssh://github.com/seu-labview/Vision-Course-2020.git #发布
