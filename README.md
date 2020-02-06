@@ -12,7 +12,7 @@
 其后的日期表示截止日期，对应任务须在当日及之前提交
 
 - [x] 一：[git和GitHub的认识与使用](https://github.com/seu-labview/Vision-Course-2020/blob/master/1-github/README.md) ![](https://progress-bar.dev/6/?scale=7&title=done&suffix=/7) **1月18日** 
-- [ ] 二：（选做）[Ubuntu的安装和初步认识](https://github.com/seu-labview/Vision-Course-2020/blob/master/2-ubuntu/README.md)   ![](https://progress-bar.dev/1/?scale=7&title=done&suffix=/7) ~~**1月25日**~~
+- [ ] 二：（选做）[Ubuntu的安装和初步认识](https://github.com/seu-labview/Vision-Course-2020/blob/master/2-ubuntu/README.md)   ![](https://progress-bar.dev/4/?scale=7&title=done&suffix=/7) ~~**1月25日**~~
 
 > 基于风险考量和进度评估，Ubuntu部分决定延期到开学后现场进行。
 
