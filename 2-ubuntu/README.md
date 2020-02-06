@@ -25,6 +25,12 @@
 2. [下载镜像](http://releases.ubuntu.com/18.04.3/ubuntu-18.04.3-desktop-amd64.iso)
 > 请注意，镜像虽然实质是一个压缩包，但是不需要解压缩。
 
+### 国内镜像列表
+* [南大](http://mirrors.nju.edu.cn/ubuntu-releases/18.04.3/ubuntu-18.04.3-desktop-amd64.iso)
+* [中科大](http://mirrors.ustc.edu.cn/ubuntu-releases/18.04.3/ubuntu-18.04.3-desktop-amd64.iso)
+* [华为](http://mirrors.huaweicloud.com/repository/ubuntu-releases/18.04.3/ubuntu-18.04.3-desktop-amd64.iso)
+* [清华](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/18.04.3/ubuntu-18.04.3-desktop-amd64.iso)
+
 3. 为了给 *Ubuntu* 腾出40GB空间，您通常需要压缩磁盘卷。略。
 Note:右键开始logo→磁盘管理
 
