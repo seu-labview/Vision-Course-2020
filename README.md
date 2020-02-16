@@ -16,7 +16,7 @@
 
 > 基于风险考量和进度评估，Ubuntu部分决定延期到开学后现场进行。
 
-- [ ] 三：[Python的入门](https://github.com/seu-labview/Vision-Course-2020/blob/master/3-python/README.md) &emsp;&emsp;&emsp;&emsp;&emsp; ![](https://progress-bar.dev/0/?scale=7&title=done&suffix=/7) **2月8日**
+- [x] 三：[Python的入门](https://github.com/seu-labview/Vision-Course-2020/blob/master/3-python/README.md) &emsp;&emsp;&emsp;&emsp;&emsp; ![](https://progress-bar.dev/4/?scale=7&title=done&suffix=/7) **2月8日**
 - [ ] 四：[OpenCV的入门](https://github.com/seu-labview/Vision-Course-2020/blob/master/4-opencv/README.md)&emsp;&emsp;&emsp;&emsp;&emsp;![](https://progress-bar.dev/0/?scale=7&title=done&suffix=/7) **2月22日**
 
 ## 详细说明
